@@ -38,13 +38,12 @@
 		<meta property="se:subject">Fantasy</meta>
 		<dc:description id="description">An ancient Chinese storyteller charged with treason uses his beguiling tales to avoid conviction.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			 &lt;p&gt;Ernest Bramah’s &lt;i&gt;Kai Lung&lt;/i&gt; stories are set in a fantastical ancient China and written with an oblique, ornate style of prose that serves to mimic that of Chinese folk tales. The titular character is an itinerant storyteller and the books themselves are mostly collections of stories presented as if he were narrating.&lt;/p&gt;
-&lt;p&gt;&lt;i&gt;Kai Lung’s Golden Hours&lt;/i&gt;, published in 1922, is the second of the Kai Lung books, and the first to have an overarching framing narrative and thus be published as a novel. In it we see Kai Lung brought before the court of the Mandarin Shan Tien, having been accused of treason by the Mandarin’s agent Ming-shu. Appealing to Shan Tien’s appreciation for refined narrative, Kai Lung tries to regain his freedom by spinning a series of beguiling tales filled with aphorisms and humorous understatement.&lt;/p&gt;
+			&lt;p&gt;Ernest Bramah’s &lt;i&gt;Kai Lung&lt;/i&gt; stories are set in a fantastical ancient China and written with an oblique, ornate style of prose that serves to mimic that of Chinese folk tales. The titular character is an itinerant storyteller and the books themselves are mostly collections of stories presented as if he were narrating.&lt;/p&gt;
+					&lt;p&gt;&lt;i&gt;Kai Lung’s Golden Hours&lt;/i&gt;, published in 1922, is the second of the Kai Lung books, and the first to have an overarching framing narrative and thus be published as a novel. In it we see Kai Lung brought before the court of the Mandarin Shan Tien, having been accused of treason by the Mandarin’s agent Ming-shu. Appealing to Shan Tien’s appreciation for refined narrative, Kai Lung tries to regain his freedom by spinning a series of beguiling tales filled with aphorisms and humorous understatement.&lt;/p&gt;
 		 </meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1267</dc:source>
 		<dc:source>https://archive.org/details/kailungsgoldenho00bramuoft</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Kai_Lung%27s_Golden_Hours</meta>
@@ -54,6 +53,12 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Ernest_Bramah</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">https://lccn.loc.gov/n50014273</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<dc:contributor id="author-of-preface">Hilaire Belloc</dc:contributor>
+		<meta property="file-as" refines="#author-of-preface">Belloc, Hilaire</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author-of-preface">https://en.wikipedia.org/wiki/Hilaire_Belloc</meta>
+		<meta property="se:name.person.full-name" refines="#author-of-preface">Joseph Hilaire Pierre René Belloc</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author-of-preface">http://id.loc.gov/authorities/names/n80046751</meta>
+		<meta property="role" refines="#author-of-preface" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="artist">François Boucher</dc:contributor>
 		<meta property="file-as" refines="#artist">Boucher, François</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/François_Boucher</meta>

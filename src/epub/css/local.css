@@ -11,65 +11,29 @@ footer .signature{
 }
 
 span[epub|type~="subtitle"]{
-display: block;
-font-weight: normal;
+	display: block;
+	font-weight: normal;
 }
 
 [epub|type~="z3998:song"] p{
-text-align: left;
-text-indent: 0;
+	text-align: left;
+	text-indent: 0;
 }
 
 [epub|type~="z3998:song"] p > span{
-display: block;
-text-indent: -1em;
-padding-left: 1em;
+	display: block;
+	text-indent: -1em;
+	padding-left: 1em;
 }
 
 [epub|type~="z3998:song"] p > span + br{
-display: none;
+	display: none;
 }
 
 [epub|type~="z3998:song"] p + p{
-margin-top: 1em;
+	margin-top: 1em;
 }
 
 [epub|type~="z3998:song"] + p{
-text-indent: 0;
-}
-[epub|type~="epigraph"]{
-font-style: italic;
-hyphens: none;
-}
-
-[epub|type~="epigraph"] em,
-[epub|type~="epigraph"] i{
-font-style: normal;
-}
-
-[epub|type~="epigraph"] cite{
-margin-top: 1em;
-font-style: normal;
-font-variant: small-caps;
-}
-
-[epub|type~="epigraph"] cite i{
-font-style: italic;
-}
-
-section > header [epub|type~="epigraph"]{
-display: inline-block;
-margin: auto;
-max-width: 80%;
-text-align: left;
-}
-
-section > header [epub|type~="epigraph"] + *{
-margin-top: 3em;
-}
-
-@supports(display: table){
-section > header [epub|type~="epigraph"]{
-	display: table;
-}
+	text-indent: 0;
 }
