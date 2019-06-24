@@ -27,8 +27,8 @@
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
-		<dc:title id="title">Kai Lung's Golden Hours</dc:title>
-		<meta property="file-as" refines="#title">Kai Lung's Golden Hours</meta>
+		<dc:title id="title">Kai Lung’s Golden Hours</dc:title>
+		<meta property="file-as" refines="#title">Kai Lung’s Golden Hours</meta>
 		<dc:subject id="subject-1">Fantasy fiction</dc:subject>
 		<dc:subject id="subject-2">Kai Lung (Fictitious character) -- Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
