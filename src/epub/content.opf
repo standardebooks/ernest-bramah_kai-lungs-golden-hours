@@ -39,8 +39,8 @@
 		<dc:description id="description">An ancient Chinese storyteller charged with treason uses his beguiling tales to avoid conviction.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Ernest Bramah’s &lt;i&gt;Kai Lung&lt;/i&gt; stories are set in a fantastical ancient China and written with an oblique, ornate style of prose that serves to mimic that of Chinese folk tales. The titular character is an itinerant storyteller and the books themselves are mostly collections of stories presented as if he were narrating.&lt;/p&gt;
-					&lt;p&gt;&lt;i&gt;Kai Lung’s Golden Hours&lt;/i&gt;, published in 1922, is the second of the Kai Lung books, and the first to have an overarching framing narrative and thus be published as a novel. In it we see Kai Lung brought before the court of the Mandarin Shan Tien, having been accused of treason by the Mandarin’s agent Ming-shu. Appealing to Shan Tien’s appreciation for refined narrative, Kai Lung tries to regain his freedom by spinning a series of beguiling tales filled with aphorisms and humorous understatement.&lt;/p&gt;
-		 </meta>
+			&lt;p&gt;&lt;i&gt;Kai Lung’s Golden Hours&lt;/i&gt;, published in 1922, is the second of the Kai Lung books, and the first to have an overarching framing narrative and thus be published as a novel. In it we see Kai Lung brought before the court of the Mandarin Shan Tien, having been accused of treason by the Mandarin’s agent Ming-shu. Appealing to Shan Tien’s appreciation for refined narrative, Kai Lung tries to regain his freedom by spinning a series of beguiling tales filled with aphorisms and humorous understatement.&lt;/p&gt;
+		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1267</dc:source>
 		<dc:source>https://archive.org/details/kailungsgoldenho00bramuoft</dc:source>
