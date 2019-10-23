@@ -15,6 +15,10 @@ span[epub|type~="subtitle"]{
 	font-weight: normal;
 }
 
+footer p + p{
+	font-style: italic;
+}
+
 [epub|type~="z3998:song"] p{
 	text-align: left;
 	text-indent: 0;
