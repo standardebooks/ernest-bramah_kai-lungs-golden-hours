@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-10.xhtml">
+		<ignore>
+			<code>t-036</code>
+			<reason>Quotation marks are correctly nested in this complex nested quote.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
