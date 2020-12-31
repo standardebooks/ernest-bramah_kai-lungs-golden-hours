@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
+	<file path="chapter-4.xhtml">
+		<ignore>
+			<code>s-023</code>
+			<reason>Matched text is not a Roman numeral that would require all-caps.</reason>
+		</ignore>
+	</file>
 	<file path="chapter-10.xhtml">
 		<ignore>
 			<code>t-036</code>
