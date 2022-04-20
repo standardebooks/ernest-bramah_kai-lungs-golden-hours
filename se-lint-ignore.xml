@@ -8,7 +8,7 @@
 	</file>
 	<file path="chapter-10.xhtml">
 		<ignore>
-			<code>t-036</code>
+			<code>t-042</code>
 			<reason>Quotation marks are correctly nested in this complex nested quote.</reason>
 		</ignore>
 	</file>
