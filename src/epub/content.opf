@@ -50,7 +50,7 @@
 		<dc:creator id="author">Ernest Bramah</dc:creator>
 		<meta property="file-as" refines="#author">Bramah, Ernest</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Ernest_Bramah</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">https://lccn.loc.gov/n50014273</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50014273</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="author-of-preface">Hilaire Belloc</dc:contributor>
 		<meta property="file-as" refines="#author-of-preface">Belloc, Hilaire</meta>
