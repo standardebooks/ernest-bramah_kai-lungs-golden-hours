@@ -44,7 +44,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/1267</dc:source>
 		<dc:source>https://archive.org/details/kailungsgoldenho00bramuoft</dc:source>
 		<meta property="se:word-count">82602</meta>
-		<meta property="se:reading-ease.flesch">54.26</meta>
+		<meta property="se:reading-ease.flesch">54.46</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Kai_Lung%27s_Golden_Hours</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/ernest-bramah_kai-lungs-golden-hours</meta>
 		<dc:creator id="author">Ernest Bramah</dc:creator>
