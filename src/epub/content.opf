@@ -48,7 +48,7 @@
 		<meta property="schema:wordCount">82154</meta>
 		<meta property="schema:educationalLevel">54.46</meta>
 		<link href="https://en.wikipedia.org/wiki/Kai_Lung%27s_Golden_Hours" rel="schema:sameAs"/>
-		<meta property="schema:workExample" id="vcs-repository">schema:workExample</meta>
+		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
 		<link href="https://github.com/standardebooks/ernest-bramah_kai-lungs-golden-hours" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Ernest Bramah</dc:creator>
